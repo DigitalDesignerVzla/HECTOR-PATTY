@@ -420,14 +420,14 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 body, #container-wrap { background:#ededed; }
 :-webkit-full-screen { background:#ededed; }
 #loadIndicator span:after { padding-left:1ex; content:'{}'; }
-.page-scale-wrap { width:628px; height:1200px; background: #fff !important; }
-.paper-vertical { width:628px; height:100%; }
-.paper-horizontal { width:634px; height:1212px; }
-@media all and (max-height:1200px) {
+.page-scale-wrap { width:1080px; height:1920px; background: #fff !important; }
+.paper-vertical { width:1080px; height:100%; }
+.paper-horizontal { width:1090px; height:1932px; }
+@media all and (max-height:1920px) {
 	.paper-horizontal { margin:0;top:0;}
 	#container > .page { margin:0 auto;}/*pos top for webkit+baker*/
 }
-@media all and (max-width:628px) {
+@media all and (max-width:1080px) {
 	.paper-vertical .page, .paper-horizontal .page, .anythingSlider-in5 { padding:0;top:0;border:0; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
@@ -448,50 +448,49 @@ body, #container-wrap { background:#ededed; }
     transform: translate(-50%, -50%);
 }
 #item2678 {
-	width:270px !important;
-	height:38px !important;
-	left:181px !important;
-	top:-2px !important;
+	width:438px !important;
+	height:95px !important;
+	left:317px !important;
 }
 
 #item2885 {
-	width:85px !important;
-	height:85px !important;
-	left:487px !important;
-	top:261px !important;
+	width:184px !important;
+	height:184px !important;
+	left:796px !important;
+	top:433px !important;
 }
 
 #item2882 {
-	width:85px !important;
-	height:85px !important;
-	left:487px !important;
-	top:791px !important;
+	width:184px !important;
+	height:184px !important;
+	left:796px !important;
+	top:1324px !important;
 }
 
 #item2863 {
-	width:85px !important;
-	height:85px !important;
-	left:487px !important;
-	top:923px !important;
+	width:184px !important;
+	height:184px !important;
+	left:796px !important;
+	top:1547px !important;
 }
 
 #item2941 {
-	width:85px !important;
-	height:85px !important;
-	left:487px !important;
-	top:394px !important;
+	width:184px !important;
+	height:184px !important;
+	left:796px !important;
+	top:656px !important;
 }
 
 #item2945 {
-	width:85px !important;
-	height:85px !important;
-	left:487px !important;
-	top:526px !important;
+	width:184px !important;
+	height:184px !important;
+	left:796px !important;
+	top:878px !important;
 }
 
 #item2948 {
-	width:85px !important;
-	height:85px !important;
-	left:487px !important;
-	top:659px !important;
+	width:184px !important;
+	height:184px !important;
+	left:796px !important;
+	top:1101px !important;
 }

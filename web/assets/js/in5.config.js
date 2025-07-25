@@ -32,7 +32,7 @@ var prefix = (function () {
 var pre = (document.createElement('div').style['WebkitTransform'] != undefined) ? '-webkit-' : '';
 var useSwipe = false;
 var pageMode = 'csv';
-var pageW = 628, pageH = 1200;
+var pageW = 1080, pageH = 1920;
 var multifile = false;
 if(multifile) { 
 	$('html').addClass('multifile'); 
@@ -55,8 +55,8 @@ var interactiveSelectors = 'a,button,input,select,textarea,.mejs-overlay-button,
 var sliderSettings = {}, nav = {}, in5 = {layouts:[
  	{
  		"class": "mq-none mq-default",
- 		"width": 627.9999999999,
- 		"height": 1199.9999999999,
+ 		"width": 1080,
+ 		"height": 1920,
  		"default": true,
  		"trigger": "default",
  		"index": 0
